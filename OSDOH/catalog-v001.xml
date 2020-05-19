@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/iao/2019-08-26/ontology-metadata.owl" uri="https://raw.githubusercontent.com/information-artifact-ontology/ontology-metadata/v2019-08-26/ontology-metadata.owl"/>
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/bfo/classes-only.owl" uri="http://purl.obolibrary.org/obo/bfo/2014-05-03/classes-only.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1589921865479" name="http://purl.obolibrary.org/obo/osdoh.owl/" uri="osdoh.owl"/>
+    </group>
+</catalog>
